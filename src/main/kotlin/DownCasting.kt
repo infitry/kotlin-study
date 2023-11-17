@@ -6,4 +6,8 @@ fun main() {
         list.add(4)
     }
     println(list)
+
+    // Try this
+    val mutableList = list.toMutableList()
+    mutableList.add(4)
 }
