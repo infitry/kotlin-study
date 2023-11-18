@@ -1,3 +1,5 @@
+package immutable
+
 fun calculate(): Int {
     print("Calculating...")
     return 42

@@ -1,3 +1,5 @@
+package immutable
+
 val list = listOf(1, 2, 3)
 
 fun main() {
